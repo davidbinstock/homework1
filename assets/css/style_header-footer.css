@@ -67,3 +67,13 @@ footer {
 
 }
 
+/* ---to create the sticky footer--- */
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.content-area {
+    flex: 1 0 auto;
+}
