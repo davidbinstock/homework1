@@ -3,8 +3,7 @@
 /* ------------------------ */
 .content-area {
     background-image: url("../images/concrete_seamless.png");
-    padding: 50px 0;
-    
+    padding: 50px 0;   
 }
 
 .content-wrapper {
@@ -118,7 +117,6 @@ aside {
     box-sizing: border-box;
     height: 70px;
     width: 70px;
-    -border: 1px solid black;
 }
 
 .aside-link-so {
@@ -126,5 +124,4 @@ aside {
     height: 70px;
     width: 70px;
     padding: 4px 4px 3px 3px;
-    -border: 1px solid black;
 }
